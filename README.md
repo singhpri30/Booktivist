@@ -166,4 +166,5 @@ const getModal = () => {
 
 The scope of our app was definitely larger than the two week time-frame allowed for. There is some additional functionality that we would love to build out for a future iteration of this app. Primarily, there are some features that we would like to add to improve user experience. For example, adding more purpose driven resources for users to utilize. We'd also like to add a search by age feature.
 
-While there are always more features to add to any app, given the two week time frame, we as a team feel that we put together a very strong app.
+## Deployed App link
+https://ancient-escarpment-64438.herokuapp.com/
